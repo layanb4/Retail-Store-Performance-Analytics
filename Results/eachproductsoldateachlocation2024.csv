@@ -1,0 +1,21 @@
+storeid,location,topsoldproduct,total_quantity
+1,"New York","Apple Watch 6th generation",14
+1,"New York","Logitech wireless speaker",12
+1,"New York","Black + Decker Air Fryer",12
+1,"New York","Milwaukee Drill Set",12
+1,"New York","Ninja Smoothie Blender",6
+2,"Los Angeles","Logitech wireless speaker",18
+2,"Los Angeles","Milwaukee Drill Set",6
+2,"Los Angeles","Ninja Smoothie Blender",6
+2,"Los Angeles","Apple Watch 6th generation",4
+2,"Los Angeles","Black + Decker Air Fryer",4
+3,"Chicago","Ninja Smoothie Blender",10
+3,"Chicago","Black + Decker Air Fryer",8
+3,"Chicago","Milwaukee Drill Set",8
+3,"Chicago","Apple Watch 6th generation",6
+3,"Chicago","Logitech wireless speaker",2
+4,"Houston","Milwaukee Drill Set",10
+4,"Houston","Ninja Smoothie Blender",10
+4,"Houston","Apple Watch 6th generation",8
+4,"Houston","Logitech wireless speaker",4
+4,"Houston","Black + Decker Air Fryer",4

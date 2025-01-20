@@ -1,0 +1,5 @@
+salesmanid,sum(quantity),sum(totalamount)
+1,28,5269.72
+2,19,2599.81
+4,18,3749.82
+3,17,3199.83
